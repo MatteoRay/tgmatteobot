@@ -13,9 +13,6 @@ useEffect(() => {
 }, []);
 
 
-const onClose = () =>{
-  tg.close()
-}
 
   return (
     <div className="App">
