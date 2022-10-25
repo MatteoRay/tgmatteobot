@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       golf
-      <button onClick={onClose}>Закрыть</button>
+      <button onClick={onToggleButton}>Закрыть</button>
     </div>
   );
 }
