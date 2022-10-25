@@ -11,7 +11,6 @@ function App() {
 
   return (
     <div className="App">
-      golf
       <button onClick={onToggleButton}>Закрыть</button>
     </div>
   );
